@@ -8,7 +8,7 @@ Made by: Jevan Smith and Juan Martinez
 .:REQUIREMENTS:.
 ----------------------------------------------------------
 - Built using C++11, CLion (Version 2017.2.1)
-- To run open main.cpp in CLion or equivalent application and run
+- To run open directory in CLion or equivalent application and run main.cpp
 - To run on terminal
   - Open directory that has main.cpp
   - To compile, type: g++ -std=c++11 main.cpp -o karatsuba and press enter
